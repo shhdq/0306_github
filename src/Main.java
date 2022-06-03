@@ -8,8 +8,8 @@ public class Main {
         System.out.println("Sandis K");
         System.out.println("Ricards O");
         System.out.println("Ardijs B");
+        System.out.println("Dace");
         System.out.println("Vladislavs");
-
 
     }
 }
